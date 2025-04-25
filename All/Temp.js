@@ -2,7 +2,7 @@ const os = require('os');
 const fs = require('fs');
 const path = require('path');
 
-const TempPath = path.join(os.tmpdir(), 'Test'); //БудНаз
+const TempPath = path.join(os.tmpdir(), 'Gravitone');
 const TempFilePath = TempPath + '\\Data.json';
 
 if (!fs.existsSync(TempPath)) {

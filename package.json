@@ -1,0 +1,14 @@
+{
+    "name": "gravitone",
+    "author": "MarkushaRaz",
+    "version": "1.0.0",
+    "description": "Простой инструмент для ориентирования в проекте",
+    "main": "Main.js",
+    "bin": {
+        "gravitone": "./Main.js"
+    },
+    "dependencies": {
+        "commander": "^7.2.0"
+    },
+    "license": "MIT"
+}
