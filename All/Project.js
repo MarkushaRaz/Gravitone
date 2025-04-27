@@ -18,8 +18,8 @@ module.exports = {
     ReadPathFiles: () => {}
 };
 
-// console.table([
-//     { Id: 1, name: 'Вася', points: 120 },
-//     { Id: 2, name: 'Катя', points: 98 },
-//     { Id: 3, name: 'Петя', points: 135 },
-// ]);
+console.table([
+    { Id: 1, name: 'Вася', points: 120 },
+    { Id: 2, name: 'Катя', points: 98 },
+    { Id: 3, name: 'Петя', points: 135 },
+]);
